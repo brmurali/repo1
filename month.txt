@@ -1,17 +1,26 @@
 
 
+<<<<<<< master
 basavaraj
 bsavaraj
+=======
+bsavara
+>>>>>>> 90472bf fffffff
 jan
 feb
 mar
 apr
 may
 jne
+<<<<<<< master
 mmaster
 mmaster
 master
 maste
+=======
+master
+master
+>>>>>>> 90472bf fffffff
 
 jyoti
 
