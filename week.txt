@@ -1,3 +1,4 @@
-monda
+monday
 tuesday
 wednsday
+thursday
